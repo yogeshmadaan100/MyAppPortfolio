@@ -8,4 +8,8 @@
     <string name="textBuiltItBigger">Build It Bigger</string>
     <string name="textXYZReader">XYZ Reader</string>
     <string name="textCapstone">Capstone</string>
+
+    <!-- Main Activity Fragment Strings -->
+    <string name="text_snackbar_prefix">This button will launch my\u0020</string>
+    <string name="text_scnackbar_suffix">\u0020app!</string>
 </resources>

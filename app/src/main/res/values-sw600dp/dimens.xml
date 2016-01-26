@@ -3,12 +3,11 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="fragment_main_min_width">150dp</dimen>
+    <dimen name="fragment_main_min_width">250dp</dimen>
+
     <!-- Margins -->
-    <dimen name="margins10">10dp</dimen>
-    <dimen name="margins30">30dp</dimen>
-
+    <dimen name="margins10">20dp</dimen>
+    <dimen name="margins30">60dp</dimen>
     <!-- Text Sizes -->
-    <dimen name="textLarge">20sp</dimen>
-
+    <dimen name="textLarge">30sp</dimen>
 </resources>

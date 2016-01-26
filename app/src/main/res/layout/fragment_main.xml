@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:text="@string/textNanodegreeApps"
             android:textColor="@android:color/black"
-            android:textSize="20sp" />
+            android:textSize="@dimen/textLarge" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -35,7 +35,7 @@
                 android:id="@+id/btnSpotifyStreamer"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:minWidth="150dp"
+                android:minWidth="@dimen/fragment_main_min_width"
                 android:padding="@dimen/margins10"
                 android:text="@string/textSpotifyRunner"
                 android:textColor="@drawable/drawable_button_text"
@@ -46,7 +46,7 @@
                 android:id="@+id/btnSuperDuo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:minWidth="150dp"
+                android:minWidth="@dimen/fragment_main_min_width"
                 android:padding="@dimen/margins10"
                 android:text="@string/textSuperDuo"
                 android:textColor="@drawable/drawable_button_text"
@@ -57,7 +57,7 @@
                 android:id="@+id/btnBuildItBigger"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:minWidth="150dp"
+                android:minWidth="@dimen/fragment_main_min_width"
                 android:padding="@dimen/margins10"
                 android:text="@string/textBuiltItBigger"
                 android:textColor="@drawable/drawable_button_text"
@@ -68,7 +68,7 @@
                 android:id="@+id/btnXYZReader"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:minWidth="150dp"
+                android:minWidth="@dimen/fragment_main_min_width"
                 android:padding="@dimen/margins10"
                 android:text="@string/textXYZReader"
                 android:textColor="@drawable/drawable_button_text"
@@ -79,7 +79,7 @@
                 android:id="@+id/btnCapstone"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:minWidth="150dp"
+                android:minWidth="@dimen/fragment_main_min_width"
                 android:padding="@dimen/margins10"
                 android:text="@string/textCapstone"
                 android:textColor="@drawable/drawable_button_text"
